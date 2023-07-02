@@ -24,7 +24,7 @@ JupyterLab.
 `conda install nb_conda_kernels`
 
 ### Downloading the dataset from Kaggle via the Command line / Terminal 
-<br>Step 1: Install kaggle `pip install kaggle` (See Note 1)
+Step 1: Install kaggle `pip install kaggle` (See Note 1)
 <br>Step 2: Create the directory to store Kaggle API token `mkdir ~/.kaggle` 
 <br>Step 3: Create the token under Account 'Settings' on Kaggle website and it will start to download a JSON file. I downloaded the file to the 'Downloads' folder. 
 <br>![Create Token](kaggle_api.jpg)
