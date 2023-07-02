@@ -1,1 +1,1 @@
-# sephora_recommender_system
+# Sephore Skincare Products Recommender System
